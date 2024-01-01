@@ -1,7 +1,7 @@
 {
   "extends": "next/core-web-vitals",
   "rules": {
-    "next/no-html-link-for-pages": "on"
+    "next/no-html-link-for-pages": "1"
   }
 }
 
