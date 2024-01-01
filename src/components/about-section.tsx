@@ -38,7 +38,7 @@ const AboutSection = () => {
             
             <p>
               I'm interested in the software engineering and data science fields.
-              My hobbies include playing sports, drawing, and making music.
+              In my free time, I enjoy playing sports, drawing, and practicing with my improv team!
             </p>
             <br />
 
