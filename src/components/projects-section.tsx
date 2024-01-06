@@ -17,8 +17,8 @@ const projects = [
     name: "Moon Patrol",
     description: "A remake of the Moon Patrol arcade game on the TIC80 fantasy console.",
     image: "/final_make.gif",
-    github: "https://github.swarthmore.edu/CS91S-F23/remake-jnguyen1-ndandre1",
-    link: "https://github.com/dandrnic/moonpatrol-remake",
+    github: "https://github.com/dandrnic/moonpatrol-remake", 
+    link: "https://github.swarthmore.edu/pages/CS91S-F23/make-jnguyen1-ndandre1/make_game/",
   },
   {
     name: "Realtime Chat",
