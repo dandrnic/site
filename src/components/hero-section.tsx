@@ -23,7 +23,7 @@ const HeroSection = () => {
           hey👋🏼, I'm Nick!
           </h1>
           <p className="text-lg mt-4 mb-6 md:text-2xl">
-          Welcome to my corner of the internet!
+          Welcome to my corner of the internet :]
           <p> I'm a current junior at Swarthmore College. </p>
           <p> I do random things mainly with Python and JavaScript. </p>
           <br />
