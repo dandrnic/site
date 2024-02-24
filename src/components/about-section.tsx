@@ -12,6 +12,7 @@ const skills = [
   { skill: "Next.js" },
   { skill: "Tailwind CSS" },
   { skill: "GitHub" },
+  { skill: "Unity" },
   { skill: "Jupyter Notebooks" },
 ]
 
@@ -37,13 +38,13 @@ const AboutSection = () => {
             <br />
             
             <p>
-              I'm interested in the software engineering and data science fields.
-              In my free time, I enjoy playing sports, drawing, and practicing with my improv team!
+              I'm interested in web dev, game dev, and computer vision.
+              In my free time, I enjoy playing volleyball, drawing, and doing improv.
             </p>
             <br />
 
             <p>
-              I am always seeking new experiences and love to keep myself
+              I'm always seeking new experiences and love to keep myself
               engaged and learning new things. 🙂
             </p>
 
