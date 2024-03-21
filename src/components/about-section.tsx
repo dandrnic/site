@@ -45,7 +45,7 @@ const AboutSection = () => {
 
             <p>
               I'm always seeking new experiences and love to keep myself
-              engaged and learning new things. 🙂
+              engaged and learning new things! 🙂
             </p>
 
           </div>
