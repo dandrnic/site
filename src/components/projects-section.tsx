@@ -21,12 +21,12 @@ const projects = [
     link: "https://github.swarthmore.edu/pages/CS91S-F23/make-jnguyen1-ndandre1/make_game/",
   },
   {
-    name: "Realtime Chat",
+    name: "rmlyrics",
     description:
-      "A realtime chat application built on websocket.io using node.js.",
-    image: "/chat.png",
-    github: "https://github.com/dandrnic/Realtime-Chat",
-    link: "https://realtime-chat.pages.dev/",
+      "A lyrics scraper with engilsh/romaji translations built on node.js.",
+    image: "/rmlyrics.png",
+    github: "https://github.com/dandrnic/rmlyrics",
+    link: "https://rmlyrics.vercel.app/",
   },
 ]
 
