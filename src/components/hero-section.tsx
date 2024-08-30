@@ -3,7 +3,6 @@ import React from "react";
 import Image from "next/image";
 import { Link } from "react-scroll/modules";
 import { HiArrowDown } from "react-icons/hi";
-import Music from './music';
 
 const HeroSection = () => {
   return (
@@ -24,10 +23,11 @@ const HeroSection = () => {
           </h1>
           <p className="text-lg mt-4 mb-6 md:text-2xl">
           Welcome to my corner of the internet :]
-          <p> I'm a current junior at Swarthmore College. </p>
+          <p> I'm a current senior at Swarthmore College. </p>
           <p> I do random things mainly with Python and JavaScript. </p>
           <br />
-          <Music />
+        
+
           <br />
           </p>
           

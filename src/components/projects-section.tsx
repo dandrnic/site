@@ -6,6 +6,14 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
+    name: "rmlyrics",
+    description:
+      "A lyrics scraper with engilsh/romaji translations built on node.js.",
+    image: "/rmlyrics.png",
+    github: "https://github.com/dandrnic/rmlyrics",
+    link: "https://rmlyrics.vercel.app/",
+  },
+  {
     name: "Audio Transcription Script",
     description:
       "A Jupyter script that transcribes mp4 videos into simple text, using json and AWS apis.",
@@ -19,14 +27,6 @@ const projects = [
     image: "/final_make.gif",
     github: "https://github.com/dandrnic/moonpatrol-remake", 
     link: "https://github.swarthmore.edu/pages/CS91S-F23/make-jnguyen1-ndandre1/make_game/",
-  },
-  {
-    name: "rmlyrics",
-    description:
-      "A lyrics scraper with engilsh/romaji translations built on node.js.",
-    image: "/rmlyrics.png",
-    github: "https://github.com/dandrnic/rmlyrics",
-    link: "https://rmlyrics.vercel.app/",
   },
 ]
 
