@@ -64,13 +64,6 @@ const AboutSection = () => {
               })}
             </div>
             <br />
-            <Image
-              src="/thorfinn.gif"
-              alt=""
-              width={325}
-              height={325}
-              className="hidden md:block md:relative md:bottom md:left-15 md:z-0"
-            />
           </div>
         </div>
       </div>
