@@ -22,10 +22,9 @@ const HeroSection = () => {
           hey👋🏼, I'm Nick!
           </h1>
           <p className="text-lg mt-4 mb-6 md:text-2xl">
-          Welcome to my corner of the internet :]
-          I'm a current senior at Swarthmore College. 
-          I do random things mainly with Python and JavaScript. 
+          Welcome to my corner of the internet!
           <br />
+          I'm a current senior at Swarthmore College. 
         
 
           <br />
